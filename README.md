@@ -1,1 +1,1 @@
-# NAND-Perceptron
+# nn-p
